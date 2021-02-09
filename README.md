@@ -1,3 +1,3 @@
 # CreativeMenu-CSS
 
-This repo contains creative 
+This repo contains creative menu 
